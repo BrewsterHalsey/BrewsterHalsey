@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://media.discordapp.net/attachments/865452179723518013/865452561531797524/SHT.png?width=577&height=325" height="175px"/></a>
 
 <h1 align="center">Hello, I'm Brewster Halsey`s<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<h3 align="center">I'm Junior Basic Developer From Indonesian.</h3>
 
 
 ## 🙋‍♂️ About Me
