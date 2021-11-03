@@ -1,4 +1,4 @@
-<a href="#"><img width="50%" height="auto" src="https://image.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg" height="175px"/></a>
+<a href="#"><img width="50%" height="auto" src="https://media.discordapp.net/attachments/865452179723518013/865452561531797524/SHT.png?width=577&height=325" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Subham</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
