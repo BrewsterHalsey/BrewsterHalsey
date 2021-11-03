@@ -6,17 +6,15 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently working on **[Discord](https://discord.com)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **JavaScript Learning, HTML, CSS & Python**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👨‍💻 All of my projects are available at **[Discord Server](https://discord.gg/CSS9TfCvsx)**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
+- 📫 My project's it's a **Discord Bot's & Portofolio Website**
 
-- 📫 How to reach me **subham.raoniar@gmail.com**
-
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **i'm playing games & socialization with other people**
 
 ## 🚀 Languages and Tools:
 
