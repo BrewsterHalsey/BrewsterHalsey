@@ -36,7 +36,7 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+## 📊 Github Stats
 
   <br/>
     <a href="https://github.com/BrewsterHalsey/github-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=BrewsterHalsey&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -53,7 +53,7 @@
 <br/>
 <br/>
 
-## Connect with me:
+## Social Media:
 <p align="left">
 
 <a href = "https://www.instagram.com/sonjayabrns/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
