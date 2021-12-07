@@ -6,8 +6,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Discord](https://discord.com)**
-
 - 🌱 I’m currently learning **JavaScript Learning, HTML, CSS & Python**
 
 - 👨‍💻 All of my projects are available at **[Discord Server](https://discord.gg/CSS9TfCvsx)**
