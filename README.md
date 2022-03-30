@@ -8,7 +8,9 @@
 
 - 🌱 I’m currently learning **JavaScript Learning, HTML, CSS & Python**
 
-- 👨‍💻 All of my projects are available at **[Discord Server](https://discord.gg/CSS9TfCvsx)**
+- 👨‍💻 All of my projects are available at **[Discord Server](https://discord.gg/kbMRtWRK2g)**
+
+- 💪 I'm currently work project 600+ command discord bots & music bot
 
 - ⚡ Fun fact **i'm playing games & socialization with other people**
 
