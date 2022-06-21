@@ -1,18 +1,18 @@
 <h1 align="center">Hello, I'm Brewster Halsey`s</h1>
-<h3 align="center">I'm Junior Programmer From Indonesian.</h3>
+<h3 align="center">I'm Newbie Programmer</h3>
 
 
 ## 🙋‍♂️ About Me
 
 - 🌱 I’m currently learning **JavaScript Learning, HTML, CSS & Python**
 
-- 👨‍💻 All of my projects are available at **[Discord Server](https://discord.gg/kbMRtWRK2g)**
+- 👨‍💻 Part of Syntax Development & TTAX Generation
 
-- 💪 I'm currently work project 600+ command discord bots & music bot
+- 💪 I'm currently work project at discord
 
 - ⚡ Fun fact **i'm playing games & socialization with other people**
 
-## 🚀 Languages:
+## 🚀 Language & Tools:
 
 <p align="left"> 
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
