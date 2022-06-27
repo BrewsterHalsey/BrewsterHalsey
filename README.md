@@ -4,9 +4,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **JavaScript Learning, HTML, CSS & Python**
+- 🌱 I’m currently learning **React.js, Python, Databasing & Data Analyst**
 
-- 👨‍💻 Part of Syntax Development & TTAX Generation
+- 👨‍💻 Part of TTAX Generation & Syntax Development
 
 - 💪 I'm currently work project at discord
 
